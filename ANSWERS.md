@@ -1,9 +1,9 @@
 1. It took me around 1 day
 
 task:-
-creating django app
-dockerfile
-dockercompose file
+creating django app,
+dockerfile,
+dockercompose file,
 testing
 
 2. if i would have more time i could have more optimized docker images and service configuration file.
