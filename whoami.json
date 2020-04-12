@@ -1,0 +1,23 @@
+{
+"name": "NARESH",
+"lastname": "MAHATO",
+"age": 28,
+"nationality": "INDIAN",
+"livesin": "MUMBAI",
+"profession": "DEVOPS ENGINEER",
+"passions": [
+"TECHNOLOGY",
+"LEARNING",
+"Teaching others"
+],
+"hobby": [
+"travelling",
+"cricket",
+"listening music",
+"cooking"
+],
+
+"believes": [
+"That we should all have a chance in life, we should not be judged because of our color, ethnicity and educational background!"
+]
+}
