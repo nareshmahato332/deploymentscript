@@ -4,7 +4,7 @@ To depoy the application, I have written deployment.sh script.
 
 # steps:-
 
-# 1. You must have ubuntu 16 or 18 0S with Bash shell.
+# 1. You must have ubuntu 18 0S with Bash shell.
 
 # 2. prerequisite software:-
    
